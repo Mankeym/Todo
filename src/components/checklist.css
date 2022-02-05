@@ -1,0 +1,13 @@
+.checklist__container{
+    display: flex;
+    justify-content: center;
+}
+.checklist__number{
+    margin: 15px 10px 10px 0;
+}
+.checklist__text{
+
+}
+.checklist__checkbox{
+    margin: 20px 0 0 15px;
+}
